@@ -42,7 +42,7 @@ export default function Login() {
           alt="Clothing rack"
         />
         <div className="auth-page__media-copy">
-          <span className="eyebrow">Thread &amp; Co.</span>
+          <span className="eyebrow">C&amp;Y clothing Apparel</span>
           <h2>Good tees. Fewer decisions.</h2>
           <p>Sign in to track orders, save addresses, and keep your bag across visits.</p>
         </div>

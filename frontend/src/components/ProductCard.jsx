@@ -26,7 +26,7 @@ export default function ProductCard({ product }) {
           />
         ) : (
           <div className="product-card__fallback">
-            <span>Thread &amp; Co.</span>
+            <span>C&amp;Y clothing Apparel</span>
           </div>
         )}
         <span className="product-card__view">

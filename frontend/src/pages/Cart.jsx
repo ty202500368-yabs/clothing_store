@@ -108,7 +108,7 @@ export default function Cart() {
                   {image ? (
                     <img src={imageUrl(image)} alt={product?.name || 'Tee'} />
                   ) : (
-                    <span>Thread &amp; Co.</span>
+                    <span>C&amp;Y clothing Apparel</span>
                   )}
                 </Link>
 

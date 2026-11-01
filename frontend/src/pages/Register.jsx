@@ -56,7 +56,7 @@ export default function Register() {
       <div className="auth-page__form">
         <div className="auth-card">
           <span className="eyebrow">Create account</span>
-          <h1>Join Thread &amp; Co.</h1>
+          <h1>Join C&amp;Y clothing Apparel.</h1>
           <p className="muted">It takes less than a minute.</p>
 
           {error && <div className="alert alert--error">{error}</div>}

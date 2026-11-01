@@ -3710,13 +3710,17 @@ button.address-card:hover {
     gap: 7px;
   }
 
+  .site-header .brand__mark {
+    display: none;
+  }
+
   .brand__mark {
     width: 32px;
     height: 32px;
   }
 
   .brand__wordmark {
-    font-size: 18px;
+    font-size: 17px;
   }
 
   .hero h1 {

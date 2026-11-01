@@ -62,9 +62,9 @@ export default function Header() {
           {mobileOpen ? <X size={22} /> : <Menu size={22} />}
         </button>
 
-        <Link to="/" className="brand" aria-label="Thread & Co. home">
-          <span className="brand__mark">T&amp;C</span>
-          <span className="brand__wordmark">Thread &amp; Co.</span>
+        <Link to="/" className="brand" aria-label="C&amp;Y clothing Apparel home">
+          <span className="brand__mark">C&amp;Y</span>
+          <span className="brand__wordmark">C&amp;Y clothing Apparel</span>
         </Link>
 
         <nav className="main-nav desktop-only" aria-label="Main navigation">

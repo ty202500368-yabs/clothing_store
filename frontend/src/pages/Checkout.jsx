@@ -328,7 +328,7 @@ export default function Checkout() {
               <div className="pickup-note">
                 <Store size={18} />
                 <div>
-                  <strong>Thread &amp; Co. studio</strong>
+                  <strong>C&amp;Y clothing Apparel studio</strong>
                   <p>Unit 4, 21 Industria Street, Pasig City · Mon–Sat, 9am–6pm</p>
                 </div>
               </div>
@@ -375,7 +375,7 @@ export default function Checkout() {
               <div className="gcash-box">
                 <p>
                   Send <strong>{formatCurrency(total)}</strong> to{' '}
-                  <strong>0917 123 4567</strong> (Thread &amp; Co.), then enter the GCash
+                  <strong>0917 123 4567</strong> (C&amp;Y clothing Apparel), then enter the GCash
                   reference number below.
                 </p>
                 <label>

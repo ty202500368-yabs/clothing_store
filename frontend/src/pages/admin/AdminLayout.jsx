@@ -15,8 +15,8 @@ export default function AdminLayout() {
     <div className="admin-shell">
       <aside className="admin-sidebar">
         <Link to="/admin" className="brand brand--admin">
-          <span className="brand__mark">T&amp;C</span>
-          <span className="brand__wordmark">Thread &amp; Co.</span>
+          <span className="brand__mark">C&amp;Y</span>
+          <span className="brand__wordmark">C&amp;Y clothing Apparel</span>
         </Link>
 
         <span className="admin-sidebar__label">Admin</span>

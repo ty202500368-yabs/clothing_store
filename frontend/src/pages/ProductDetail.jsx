@@ -147,7 +147,7 @@ export default function ProductDetail() {
             {activeImage ? (
               <img src={imageUrl(activeImage)} alt={product.name} />
             ) : (
-              <div className="product-gallery__fallback">Thread &amp; Co.</div>
+              <div className="product-gallery__fallback">C&amp;Y clothing Apparel</div>
             )}
           </div>
 

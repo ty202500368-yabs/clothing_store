@@ -8,8 +8,8 @@ export default function Footer() {
       <div className="container footer-grid">
         <div className="footer-brand">
           <Link to="/" className="brand brand--footer">
-            <span className="brand__mark">T&amp;C</span>
-            <span className="brand__wordmark">Thread &amp; Co.</span>
+            <span className="brand__mark">C&amp;Y</span>
+            <span className="brand__wordmark">C&amp;Y clothing Apparel</span>
           </Link>
           <p>
             Everyday essentials cut from premium cotton. Designed in Manila, made for the
@@ -42,7 +42,7 @@ export default function Footer() {
       </div>
 
       <div className="container footer-bottom">
-        <span>© {currentYear} Thread &amp; Co. All rights reserved.</span>
+        <span>© {currentYear} C&amp;Y clothing Apparel. All rights reserved.</span>
         <span>Cash on delivery · GCash · Store pickup</span>
       </div>
     </footer>
