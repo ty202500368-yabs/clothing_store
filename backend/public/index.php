@@ -1,5 +1,7 @@
 <?php
 
+error_reporting(E_ALL & ~E_DEPRECATED);
+
 use Illuminate\Foundation\Application;
 use Illuminate\Http\Request;
 
@@ -12,6 +14,8 @@ if (file_exists($maintenance = __DIR__.'/../storage/framework/maintenance.php'))
 
 // Register the Composer autoloader...
 require __DIR__.'/../vendor/autoload.php';
+
+class_exists(SplFileInfo::class);
 
 // Bootstrap Laravel and handle the request...
 /** @var Application $app */
